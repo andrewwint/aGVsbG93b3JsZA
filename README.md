@@ -1,5 +1,5 @@
 
-# Market Basket Task
+# Crisis Textline Market Basket Task
 ## Run Instructions
 The solution was implemented in Python 3.12. To make it easier to run I've encapsulated it in a Dockerfile. I've provided some utility Makfile target to make building and running it easier. Each command below will ensure the Dockerfile is built before running.
 ```
